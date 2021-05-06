@@ -1056,3 +1056,28 @@ form .alert {
   -webkit-animation-name: zoomIn;
   animation-name: zoomIn;
 }
+
+.PaymentButton {
+  min-width: 240px !important;
+  height: 60px !important;
+  margin-top: 25px !important;
+}
+.PaymentButton .PaymentButton-contents{
+  padding-top: 10px !important;
+}
+
+.PaymentButton-text {
+  font-size: 24px !important;
+}
+
+.PaymentButton-securedBy {
+  font-size: 12px !important;
+  margin-top: 6px !important;
+}
+
+
+@media (max-width: 480px)  {
+  .PaymentButton {
+    margin-top: 15px !important;
+  }
+}
