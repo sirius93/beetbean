@@ -1,0 +1,28 @@
+{
+  "name": "beetbean.com",
+  "version": "1.0.0",
+  "description": "beetbean is for covid",
+  "main": "/HTML/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirius93/beetbean.com.git"
+  },
+  "keywords": [
+    "covid",
+    "help",
+    "donation"
+  ],
+  "author": "Nandan kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirius93/beetbean.com/issues"
+  },
+  "homepage": "https://sirius93.github.io/beetbean.com/",
+  "devDependencies": {
+    "lite-server": "^2.3.0",
+    "gh-pages": "^1.2.0"
+  }
+}
