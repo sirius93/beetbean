@@ -5,7 +5,8 @@
   "main": "/HTML/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d HTML"
+    "deploy": "gh-pages -d HTML",
+    "dev": "lite-server -c bs-config.json"
   },
   "repository": {
     "type": "git",
